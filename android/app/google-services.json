@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935019926172",
+    "firebase_url": "https://resource-bridge-5eb83-default-rtdb.firebaseio.com",
+    "project_id": "resource-bridge-5eb83",
+    "storage_bucket": "resource-bridge-5eb83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935019926172:android:75b542689b56551aea5359",
+        "android_client_info": {
+          "package_name": "com.resourcebridge.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtOK_msKZQ7Lqg1yzvqVETSi5hKZSQTeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

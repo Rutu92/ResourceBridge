@@ -1,0 +1,43 @@
+name: resource_bridge
+description: Resource Bridge — AI-powered donation and repair routing platform.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  firebase_database: ^11.3.10
+  firebase_storage: ^12.4.10
+  cloud_firestore: ^5.6.12
+
+  # AI
+  google_generative_ai: ^0.4.3
+
+  # Image processing
+  image: ^4.2.0
+
+  # Media & Location
+  image_picker: ^1.1.2
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.1
+
+  # Utils
+  flutter_dotenv: ^5.1.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
