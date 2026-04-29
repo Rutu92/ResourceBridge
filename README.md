@@ -28,7 +28,7 @@ Donors don't know which NGOs need what. NGOs can't reach the right donors. Damag
 3. **NGOs that need the item** get matched and can accept or reject
 4. **If damaged**, the NGO sends a repair request — any available repairer can pick it up
 5. **All parties communicate** via in-app chat
-6. **Everyone earns reward points** — contributors, NGOs, and repairers
+6. **Everyone earns reward points** — contributors and repairers
 
 ---
 
@@ -82,9 +82,7 @@ Contributor ↔ NGO and NGO ↔ Repairer — all coordination happens inside the
 - Live item tracking — real-time GPS map view of donation in transit
 - AI-powered NGO recommendation — Gemini auto-suggests the best NGO match
 - Repairer marketplace — ratings, skills, and specializations
-- Reward redemption portal — exchange points for vouchers and impact certificates
 - NGO inventory dashboard — analytics and demand forecasting
-- Multi-language UI — Hindi, Marathi, Tamil and more
 
 ---
 
