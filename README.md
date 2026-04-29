@@ -1,4 +1,5 @@
 Resource Bridge 
+
 Donation is broken,  not by lack of willingness, but by lack of connection. Donors don't know which NGOs need what, NGOs can't reach the right donors, and damaged items never get a second chance. The gap isn't generosity. It's infrastructure.
 Resource Bridge is an AI-powered donation and repair routing platform built for the Google Solution Challenge 2026. It connects contributors, NGOs, and repairers in one seamless flow — making donations smarter, faster, and more rewarding for everyone involved.
 ________________________________________
